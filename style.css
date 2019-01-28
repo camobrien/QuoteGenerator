@@ -13,7 +13,8 @@ body {
 button {
   height: 50px;
   width: 100px;
-  background-color: #f44336;
+  background-color: #ffffcc;
+  font-family: fantasy;
 
 }
 
